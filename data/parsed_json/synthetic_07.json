@@ -1,0 +1,58 @@
+{
+  "name": "KARTHIK VENKATESH",
+  "email": "karthik.v.swe@outlook.com",
+  "phone": "90045-67812",
+  "education": [
+    {
+      "degree": "M.S. Computer Science",
+      "institution": "IIT Madras",
+      "year": "2016",
+      "cgpa": "8.6"
+    },
+    {
+      "degree": "B.E. Computer Science",
+      "institution": "PES University",
+      "year": "2014",
+      "cgpa": "8.3"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Orbital Systems Inc.",
+      "role": null,
+      "duration": null,
+      "description": "Architected a distributed job-scheduling system in Go handling 50k jobs/hour. Led migration from monolith to microservices, cutting deployment time by 60%. Owns on-call and incident response for core platform services."
+    },
+    {
+      "company": "Vertex Data Labs",
+      "role": null,
+      "duration": null,
+      "description": "Built data-ingestion pipelines in Python and Kafka. Contributed to internal Kubernetes tooling for deployment automation."
+    }
+  ],
+  "skills": [
+    "Go",
+    "Python",
+    "Kubernetes",
+    "Kafka",
+    "AWS",
+    "Distributed Systems",
+    "System Design",
+    "gRPC"
+  ],
+  "projects": [
+    {
+      "title": null,
+      "description": "Rebuilt legacy scheduler in Go, improving throughput 3x.",
+      "tech_stack": []
+    }
+  ],
+  "certifications": [
+    "Certified Kubernetes Administrator (CKA)"
+  ],
+  "total_years_experience": 7.0,
+  "summary": "Senior Software Engineer, 7 years experience, specializing in distributed systems and cloud infrastructure.",
+  "_source_pdf": "E:\\CHRIST\\Trimester_4\\LLM\\Exam\\CIA3\\Recruitement_Copilot\\data\\evaluation\\synthetic_resumes\\synthetic_07.txt",
+  "_raw_text": "KARTHIK VENKATESH\nkarthik.v.swe@outlook.com | 90045-67812\n\nSUMMARY\nSenior Software Engineer, 7 years experience, specializing in distributed systems and cloud infrastructure.\n\nEDUCATION\nM.S. Computer Science, IIT Madras, 2016, CGPA: 8.6\nB.E. Computer Science, PES University, 2014, CGPA: 8.3\n\nEXPERIENCE\nSenior Software Engineer | Orbital Systems Inc. | 2019 – Present\nArchitected a distributed job-scheduling system in Go handling 50k jobs/hour. Led migration from monolith to microservices, cutting deployment time by 60%. Owns on-call and incident response for core platform services.\n\nSoftware Engineer | Vertex Data Labs | 2016 – 2019\nBuilt data-ingestion pipelines in Python and Kafka. Contributed to internal Kubernetes tooling for deployment automation.\n\nSKILLS\nGo, Python, Kubernetes, Kafka, AWS, Distributed Systems, System Design, gRPC\n\nPROJECTS\nJob Scheduler Rewrite — Rebuilt legacy scheduler in Go, improving throughput 3x.\n\nCERTIFICATIONS\nCertified Kubernetes Administrator (CKA)",
+  "_parsed_at": "2026-08-01T22:45:31.961086"
+}

@@ -1,0 +1,42 @@
+{
+  "name": "KAVYA REDDY",
+  "email": "kavya.reddy.analytics@gmail.com",
+  "phone": "+91-90123-45678",
+  "education": [
+    {
+      "degree": "B.Tech Information Technology",
+      "institution": "Bengaluru Institute of Technology",
+      "year": null,
+      "cgpa": "8.7"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Solstice Consulting",
+      "role": null,
+      "duration": null,
+      "description": "Assisted in cleaning survey datasets for client reports. Built basic Python scripts for descriptive statistics. Supported senior analysts in preparing PowerPoint summaries for stakeholders."
+    }
+  ],
+  "skills": [
+    "Python",
+    "SQL",
+    "Excel",
+    "Matplotlib",
+    "Seaborn",
+    "Basic Machine Learning"
+  ],
+  "projects": [
+    {
+      "title": "Retail Sales Forecasting",
+      "description": "Used time-series analysis in Python to forecast monthly sales for a mock retail dataset.",
+      "tech_stack": []
+    }
+  ],
+  "certifications": [],
+  "total_years_experience": null,
+  "summary": "Entry-level Data Analyst with academic project experience in machine learning and dashboarding, seeking to apply analytical skills in a business setting.",
+  "_source_pdf": "E:\\CHRIST\\Trimester_4\\LLM\\Exam\\CIA3\\Recruitement_Copilot\\data\\evaluation\\synthetic_resumes\\synthetic_03.txt",
+  "_raw_text": "KAVYA REDDY\nkavya.reddy.analytics@gmail.com | +91-90123-45678\n\nSummary: Entry-level Data Analyst with academic project experience in machine learning and dashboarding, seeking to apply analytical skills in a business setting.\n\nEducation:\nB.Tech Information Technology, Bengaluru Institute of Technology, 2023, CGPA: 8.7\n\nExperience:\nData Analyst Intern, Solstice Consulting (Jan 2023 – Jun 2023)\nAssisted in cleaning survey datasets for client reports. Built basic Python scripts for descriptive statistics. Supported senior analysts in preparing PowerPoint summaries for stakeholders.\n\nSkills: Python, SQL, Excel, Matplotlib, Seaborn, Basic Machine Learning\n\nProjects:\nRetail Sales Forecasting — Used time-series analysis in Python to forecast monthly sales for a mock retail dataset.\n\nCertifications: None listed",
+  "_parsed_at": "2026-08-01T22:45:16.691499"
+}

@@ -1,0 +1,20 @@
+Job Title: Software Engineer
+
+Experience: 3–6 Years
+
+Responsibilities:
+- Design and develop scalable software applications.
+- Collaborate with product managers, UX designers, and engineers.
+- Build automated testing strategies.
+- Implement innovative software solutions.
+- Participate in code reviews and design discussions.
+- Continuously learn new technologies and methodologies.
+
+Requirements:
+- Bachelor's or Integrated Master's degree in Computer Science.
+- Strong programming skills in Python, Java, or C++.
+- Good understanding of Data Structures and Algorithms.
+- Knowledge of Software Design Principles.
+- Interest in AI, Machine Learning, and Cloud Computing.
+- Strong problem-solving ability.
+- Good communication and teamwork.

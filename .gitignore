@@ -1,0 +1,18 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+backend/.env
+
+# Node
+node_modules/
+frontend/dist/
+
+# Vector DB (regenerate via backend/build_vector_db.py)
+vector_db/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

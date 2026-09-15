@@ -1,0 +1,23 @@
+Name: Sneha Kulkarni
+Email: sneha.kulkarni.se@gmail.com
+Phone: +91-97654-32109
+
+Profile: Full-stack developer with 2 years of experience, comfortable across React and Node.js based systems.
+
+Education
+B.Tech Computer Science, Manipal Institute of Technology, 2022, CGPA: 8.2
+
+Experience
+Software Engineer, Loopline Technologies (Jul 2022 – Present)
+- Developed customer-facing dashboard features using React and TypeScript
+- Built and maintained Node.js/Express backend services
+- Collaborated with design team to implement responsive UI components
+
+Skills
+JavaScript, TypeScript, React, Node.js, Express, MongoDB, Git, CSS
+
+Projects
+Task Management App — Full-stack app built with React, Node.js, and MongoDB, deployed on Render.
+
+Certifications
+None listed

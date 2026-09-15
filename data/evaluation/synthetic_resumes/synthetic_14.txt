@@ -1,0 +1,20 @@
+Name: Divya Sundaram
+Email: divya.sundaram.fa@outlook.com
+Phone: 99456-78123
+
+Summary: Financial Analyst focused on equity research and valuation, 4 years experience.
+
+Education
+MBA Finance, IIM Kozhikode, 2019, CGPA: 8.4
+
+Experience
+Financial Analyst, Ashford Capital Advisors (2019 – Present)
+- Built DCF and comparable-company valuation models for equity research reports
+- Tracked quarterly earnings for a coverage universe of 20 companies
+- Authored sector reports distributed to institutional clients
+
+Skills
+Equity Research, Valuation, DCF Modeling, Excel, Bloomberg Terminal, Financial Statement Analysis
+
+Certifications
+CFA Level 2 Candidate

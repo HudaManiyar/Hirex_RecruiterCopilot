@@ -1,0 +1,34 @@
+{
+  "name": "ROHIT VERMA",
+  "email": "rohit.verma.finance@gmail.com",
+  "phone": "+91-90876-54321",
+  "education": [
+    {
+      "degree": "B.Com (Honours)",
+      "institution": "Shri Ram College of Commerce",
+      "year": "2023",
+      "cgpa": "8.2"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Westgate Investment Partners",
+      "role": null,
+      "duration": null,
+      "description": "Assisted in building financial models for 3 client due-diligence projects. Compiled industry benchmarking data for investment memos. Supported senior analysts in preparing pitch decks."
+    }
+  ],
+  "skills": [
+    "Excel",
+    "Financial Modeling",
+    "PowerPoint",
+    "Basic Valuation"
+  ],
+  "projects": [],
+  "certifications": [],
+  "total_years_experience": null,
+  "summary": "Entry-level Financial Analyst with strong Excel and financial modeling skills from academic and internship projects.",
+  "_source_pdf": "E:\\CHRIST\\Trimester_4\\LLM\\Exam\\CIA3\\Recruitement_Copilot\\data\\evaluation\\synthetic_resumes\\synthetic_15.txt",
+  "_raw_text": "ROHIT VERMA\nrohit.verma.finance@gmail.com | +91-90876-54321\n\nSUMMARY\nEntry-level Financial Analyst with strong Excel and financial modeling skills from academic and internship projects.\n\nEDUCATION\nB.Com (Honours), Shri Ram College of Commerce, 2023, CGPA: 8.2\n\nEXPERIENCE\nFinancial Analyst Intern | Westgate Investment Partners | Jan 2023 – Jun 2023\nAssisted in building financial models for 3 client due-diligence projects. Compiled industry benchmarking data for investment memos. Supported senior analysts in preparing pitch decks.\n\nSKILLS\nExcel, Financial Modeling, PowerPoint, Basic Valuation\n\nCERTIFICATIONS\nNone listed",
+  "_parsed_at": "2026-08-01T22:46:01.432513"
+}

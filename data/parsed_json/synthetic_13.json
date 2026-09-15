@@ -1,0 +1,50 @@
+{
+  "name": "NIKHIL AGARWAL",
+  "email": "nikhil.agarwal.fin@gmail.com",
+  "phone": "+91-98765-11223",
+  "education": [
+    {
+      "degree": "M.Com Finance",
+      "institution": "Delhi University",
+      "year": null,
+      "cgpa": "8.5"
+    },
+    {
+      "degree": "B.Com",
+      "institution": "Delhi University",
+      "year": null,
+      "cgpa": "8.1"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Steelbridge Manufacturing Ltd",
+      "role": null,
+      "duration": null,
+      "description": "Built monthly financial forecasts and variance reports for a INR 200 crore business unit. Automated budget-tracking templates in Excel, reducing prep time by 5 hours/month. Presented quarterly financial reviews to department heads."
+    },
+    {
+      "company": "Crestline Advisory",
+      "role": null,
+      "duration": null,
+      "description": "Supported senior analysts in preparing client financial models. Conducted ratio analysis for portfolio companies."
+    }
+  ],
+  "skills": [
+    "Financial Modeling",
+    "Excel",
+    "Variance Analysis",
+    "Budgeting",
+    "Forecasting",
+    "SAP"
+  ],
+  "projects": [],
+  "certifications": [
+    "CFA Level 1 Cleared"
+  ],
+  "total_years_experience": 3.0,
+  "summary": "Financial Analyst with 3 years of experience in budgeting, forecasting, and variance analysis for a manufacturing firm.",
+  "_source_pdf": "E:\\CHRIST\\Trimester_4\\LLM\\Exam\\CIA3\\Recruitement_Copilot\\data\\evaluation\\synthetic_resumes\\synthetic_13.txt",
+  "_raw_text": "NIKHIL AGARWAL\nnikhil.agarwal.fin@gmail.com | +91-98765-11223\n\nSUMMARY\nFinancial Analyst with 3 years of experience in budgeting, forecasting, and variance analysis for a manufacturing firm.\n\nEDUCATION\nM.Com Finance, Delhi University, 2020, CGPA: 8.5\nB.Com, Delhi University, 2018, CGPA: 8.1\n\nEXPERIENCE\nFinancial Analyst | Steelbridge Manufacturing Ltd | 2021 – Present\nBuilt monthly financial forecasts and variance reports for a INR 200 crore business unit. Automated budget-tracking templates in Excel, reducing prep time by 5 hours/month. Presented quarterly financial reviews to department heads.\n\nJunior Financial Analyst | Crestline Advisory | 2020 – 2021\nSupported senior analysts in preparing client financial models. Conducted ratio analysis for portfolio companies.\n\nSKILLS\nFinancial Modeling, Excel, Variance Analysis, Budgeting, Forecasting, SAP\n\nCERTIFICATIONS\nCFA Level 1 Cleared",
+  "_parsed_at": "2026-08-01T22:45:53.399900"
+}

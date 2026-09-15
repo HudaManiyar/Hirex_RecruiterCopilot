@@ -1,0 +1,35 @@
+{
+  "name": "Neha Chatterjee",
+  "email": "neha.chatterjee.bd@outlook.com",
+  "phone": "91-99087-65123",
+  "education": [
+    {
+      "degree": "BBA",
+      "institution": "Xavier Institute of Management",
+      "year": "2023",
+      "cgpa": "7.7"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Fairline Marketing Group",
+      "role": null,
+      "duration": null,
+      "description": "Conducted cold outreach to 200+ prospective clients via email and LinkedIn Assisted in preparing sales presentations for prospective clients Maintained CRM records for the sales pipeline"
+    }
+  ],
+  "skills": [
+    "Cold Outreach",
+    "LinkedIn Sales Navigator",
+    "CRM",
+    "Communication",
+    "MS PowerPoint"
+  ],
+  "projects": [],
+  "certifications": [],
+  "total_years_experience": null,
+  "summary": "Entry-level BD Executive with strong communication skills and internship experience in client outreach.",
+  "_source_pdf": "E:\\CHRIST\\Trimester_4\\LLM\\Exam\\CIA3\\Recruitement_Copilot\\data\\evaluation\\synthetic_resumes\\synthetic_18.txt",
+  "_raw_text": "Name: Neha Chatterjee\nEmail: neha.chatterjee.bd@outlook.com\nPhone: 91-99087-65123\n\nSummary: Entry-level BD Executive with strong communication skills and internship experience in client outreach.\n\nEducation\nBBA, Xavier Institute of Management, 2023, CGPA: 7.7\n\nExperience\nBusiness Development Intern, Fairline Marketing Group (Jan 2023 – Jun 2023)\n- Conducted cold outreach to 200+ prospective clients via email and LinkedIn\n- Assisted in preparing sales presentations for prospective clients\n- Maintained CRM records for the sales pipeline\n\nSkills\nCold Outreach, LinkedIn Sales Navigator, CRM, Communication, MS PowerPoint\n\nCertifications\nNone listed",
+  "_parsed_at": "2026-08-01T22:46:13.159725"
+}

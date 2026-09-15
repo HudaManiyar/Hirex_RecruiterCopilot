@@ -1,0 +1,25 @@
+KARTHIK VENKATESH
+karthik.v.swe@outlook.com | 90045-67812
+
+SUMMARY
+Senior Software Engineer, 7 years experience, specializing in distributed systems and cloud infrastructure.
+
+EDUCATION
+M.S. Computer Science, IIT Madras, 2016, CGPA: 8.6
+B.E. Computer Science, PES University, 2014, CGPA: 8.3
+
+EXPERIENCE
+Senior Software Engineer | Orbital Systems Inc. | 2019 – Present
+Architected a distributed job-scheduling system in Go handling 50k jobs/hour. Led migration from monolith to microservices, cutting deployment time by 60%. Owns on-call and incident response for core platform services.
+
+Software Engineer | Vertex Data Labs | 2016 – 2019
+Built data-ingestion pipelines in Python and Kafka. Contributed to internal Kubernetes tooling for deployment automation.
+
+SKILLS
+Go, Python, Kubernetes, Kafka, AWS, Distributed Systems, System Design, gRPC
+
+PROJECTS
+Job Scheduler Rewrite — Rebuilt legacy scheduler in Go, improving throughput 3x.
+
+CERTIFICATIONS
+Certified Kubernetes Administrator (CKA)

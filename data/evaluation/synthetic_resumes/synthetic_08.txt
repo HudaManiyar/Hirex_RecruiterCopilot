@@ -1,0 +1,21 @@
+Name: Ishaan Bose
+Contact: ishaan.bose.code@gmail.com | 98123-45670
+
+SUMMARY
+Recent graduate Software Engineer with internship experience in mobile app development.
+
+EDUCATION
+B.Tech Computer Science, Amrita Vishwa Vidyapeetham, 2024, CGPA: 8.0
+
+EXPERIENCE
+Software Engineer Intern, PixelWave Apps (Jan 2024 – Jun 2024)
+Built and shipped two features for a Flutter-based consumer app used by 50k+ users. Fixed 20+ bugs reported through crash analytics. Wrote unit tests for new feature modules.
+
+SKILLS
+Flutter, Dart, Java, Firebase, Git, REST APIs
+
+PROJECTS
+Campus Event App — Built a Flutter app for tracking college events, used by 500+ students.
+
+CERTIFICATIONS
+None listed

@@ -1,0 +1,50 @@
+{
+  "name": "ANANYA KRISHNAN",
+  "email": "ananya.krishnan.hr@gmail.com",
+  "phone": "+91-99001-23456",
+  "education": [
+    {
+      "degree": "MBA Human Resources",
+      "institution": "Symbiosis Institute",
+      "year": null,
+      "cgpa": "8.0"
+    },
+    {
+      "degree": "B.A. Psychology",
+      "institution": "St. Xavier's College",
+      "year": null,
+      "cgpa": "7.9"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Fenwick Software Solutions",
+      "role": null,
+      "duration": null,
+      "description": "Managed end-to-end recruitment for engineering roles, reducing average time-to-hire from 45 to 30 days. Coordinated onboarding for 60+ new hires annually. Ran quarterly employee engagement surveys and reported findings to leadership."
+    },
+    {
+      "company": "Clearway Consulting",
+      "role": null,
+      "duration": null,
+      "description": "Screened resumes and scheduled interviews for junior-level hiring. Maintained HRMS records for 200+ employees."
+    }
+  ],
+  "skills": [
+    "Recruitment",
+    "Onboarding",
+    "HRMS",
+    "Employee Engagement",
+    "Interview Coordination",
+    "Exit Interviews"
+  ],
+  "projects": [],
+  "certifications": [
+    "SHRM Certified Professional (SHRM-CP)"
+  ],
+  "total_years_experience": 4.0,
+  "summary": "HR Executive with 4 years of experience in recruitment, onboarding, and employee engagement for mid-sized tech companies.",
+  "_source_pdf": "E:\\CHRIST\\Trimester_4\\LLM\\Exam\\CIA3\\Recruitement_Copilot\\data\\evaluation\\synthetic_resumes\\synthetic_09.txt",
+  "_raw_text": "ANANYA KRISHNAN\nananya.krishnan.hr@gmail.com | +91-99001-23456\n\nSUMMARY\nHR Executive with 4 years of experience in recruitment, onboarding, and employee engagement for mid-sized tech companies.\n\nEDUCATION\nMBA Human Resources, Symbiosis Institute, 2020, CGPA: 8.0\nB.A. Psychology, St. Xavier's College, 2018, CGPA: 7.9\n\nEXPERIENCE\nHR Executive | Fenwick Software Solutions | 2021 – Present\nManaged end-to-end recruitment for engineering roles, reducing average time-to-hire from 45 to 30 days. Coordinated onboarding for 60+ new hires annually. Ran quarterly employee engagement surveys and reported findings to leadership.\n\nHR Associate | Clearway Consulting | 2020 – 2021\nScreened resumes and scheduled interviews for junior-level hiring. Maintained HRMS records for 200+ employees.\n\nSKILLS\nRecruitment, Onboarding, HRMS, Employee Engagement, Interview Coordination, Exit Interviews\n\nPROJECTS\nNone listed\n\nCERTIFICATIONS\nSHRM Certified Professional (SHRM-CP)",
+  "_parsed_at": "2026-08-01T22:45:39.226118"
+}

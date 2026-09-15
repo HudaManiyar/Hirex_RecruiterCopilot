@@ -1,0 +1,56 @@
+{
+  "name": "Rohan Iyer",
+  "email": "rohan.iyer.work@gmail.com",
+  "phone": "98456-12378",
+  "education": [
+    {
+      "degree": "MBA (Business Analytics)",
+      "institution": "IIM Trichy",
+      "year": null,
+      "cgpa": "8.1"
+    },
+    {
+      "degree": "B.Com",
+      "institution": "Loyola College",
+      "year": null,
+      "cgpa": "7.8"
+    }
+  ],
+  "experience": [
+    {
+      "company": "HealthFirst Diagnostics",
+      "role": null,
+      "duration": null,
+      "description": "Led a team of 2 analysts building patient-outcome dashboards. Reduced report turnaround from 3 days to same-day using automated SQL views. Collaborated with clinical staff to define new tracking metrics."
+    },
+    {
+      "company": "Vantage Fintech",
+      "role": null,
+      "duration": null,
+      "description": "Built fraud-detection reporting dashboards in Tableau. Queried large transaction datasets using SQL for compliance audits."
+    }
+  ],
+  "skills": [
+    "SQL",
+    "Tableau",
+    "Python",
+    "Stakeholder Communication",
+    "Data Governance",
+    "Excel"
+  ],
+  "projects": [
+    {
+      "title": null,
+      "description": "Tableau dashboard flagging anomalous transaction clusters.",
+      "tech_stack": []
+    }
+  ],
+  "certifications": [
+    "Tableau Desktop Specialist"
+  ],
+  "total_years_experience": 5.0,
+  "summary": "Data Analyst with 5+ years across fintech and healthcare, specializing in dashboarding and stakeholder reporting.",
+  "_source_pdf": "E:\\CHRIST\\Trimester_4\\LLM\\Exam\\CIA3\\Recruitement_Copilot\\data\\evaluation\\synthetic_resumes\\synthetic_04.txt",
+  "_raw_text": "Name: Rohan Iyer\nEmail: rohan.iyer.work@gmail.com\nPhone: 98456-12378\n\nSUMMARY\nData Analyst with 5+ years across fintech and healthcare, specializing in dashboarding and stakeholder reporting.\n\nEDUCATION\nMBA (Business Analytics), IIM Trichy, 2018, CGPA: 8.1\nB.Com, Loyola College, 2015, CGPA: 7.8\n\nEXPERIENCE\nSenior Data Analyst | HealthFirst Diagnostics | 2020 – Present\nLed a team of 2 analysts building patient-outcome dashboards. Reduced report turnaround from 3 days to same-day using automated SQL views. Collaborated with clinical staff to define new tracking metrics.\n\nData Analyst | Vantage Fintech | 2018 – 2020\nBuilt fraud-detection reporting dashboards in Tableau. Queried large transaction datasets using SQL for compliance audits.\n\nSKILLS\nSQL, Tableau, Python, Stakeholder Communication, Data Governance, Excel\n\nPROJECTS\nFraud Pattern Dashboard — Tableau dashboard flagging anomalous transaction clusters.\n\nCERTIFICATIONS\nTableau Desktop Specialist",
+  "_parsed_at": "2026-08-01T22:45:21.067710"
+}

@@ -1,0 +1,52 @@
+{
+  "name": null,
+  "email": null,
+  "phone": null,
+  "education": [
+    {
+      "degree": null,
+      "institution": "Suffolk County Community College",
+      "year": null,
+      "cgpa": null
+    },
+    {
+      "degree": "High School Diploma",
+      "institution": "High School",
+      "year": null,
+      "cgpa": null
+    }
+  ],
+  "experience": [
+    {
+      "company": "Company Name",
+      "role": null,
+      "duration": null,
+      "description": "Interact with customers. Work the register. Answer calls."
+    },
+    {
+      "company": "Company Name",
+      "role": null,
+      "duration": null,
+      "description": "Interact with customers. Organize inventory. Work the register."
+    },
+    {
+      "company": "Company Name",
+      "role": null,
+      "duration": null,
+      "description": "Organize shelves and racks/inventory. Work the register. Answer calls. Interact with customers."
+    }
+  ],
+  "skills": [
+    "Good at communicating and interacting with customers",
+    "Good time management",
+    "Self-motivation",
+    "Good adaptability"
+  ],
+  "projects": [],
+  "certifications": [],
+  "total_years_experience": 3.0,
+  "summary": "Motivated sales associate with 3+ years of sales and customer service experience. Currently enrolled in Suffolk County Community College studying culinary.",
+  "_source_pdf": "E:\\CHRIST\\Trimester_4\\LLM\\Exam\\CIA3\\Recruitement_Copilot\\data\\resumes\\raw_data\\Sales\\12696104.pdf",
+  "_raw_text": "SALES ASSOCIATE\nSummary\nMotivated sales associate with 3+ years of sales and customer service experience. Currently enrolled in Suffolk County Community College\nstudying culinary.\nExperience\n03/2016 to 10/2016\nSales Associate Company Name ï¼​ City , State\nInteract with customers.\nWork the register.\nAnswer calls.\n10/2014 to 03/2016\nSales Associate/Smoothie Maker Company Name ï¼​ City , State\nInteract with customers.\nOrganize inventory.\nWork the register.\n09/2013 to 09/2014\nSales Associate Company Name ï¼​ City , State\nOrganize shelves and racks/inventory.\nWork the register.\nAnswer calls.\nInteract with customers.\nEducation\n2015\nHigh School Diploma High School ï¼​ City , State\nSuffolk County Community College ï¼​ State\nSkills\n- Good at communicating and interacting with customers\n- Good time management\n-Â Self-motivation\n- Good adaptability\n",
+  "_parsed_at": "2026-08-01T22:39:09.537433"
+}

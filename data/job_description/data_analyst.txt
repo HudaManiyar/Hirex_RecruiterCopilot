@@ -1,0 +1,18 @@
+Job Title: Data Analyst
+
+Experience: 2+ Years
+
+Responsibilities:
+- Define and monitor product and business metrics.
+- Build dashboards using Looker or Tableau.
+- Perform ad-hoc analyses for stakeholders.
+- Work with data engineers to improve data quality.
+- Present insights to both technical and non-technical teams.
+
+Requirements:
+- Strong SQL skills.
+- Working knowledge of Python.
+- Experience with Snowflake, Looker, Tableau, or similar BI tools.
+- Familiarity with experimentation and statistical analysis.
+- Strong analytical and problem-solving skills.
+- Excellent communication skills.

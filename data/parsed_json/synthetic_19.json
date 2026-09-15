@@ -1,0 +1,47 @@
+{
+  "name": "VIKRAM SINGH",
+  "email": "vikram.singh.bde@gmail.com",
+  "phone": "+91-90234-56178",
+  "education": [
+    {
+      "degree": "MBA",
+      "institution": "Indian School of Business",
+      "year": "2016",
+      "cgpa": "8.5"
+    },
+    {
+      "degree": "B.Tech Electronics",
+      "institution": "NIT Trichy",
+      "year": "2013",
+      "cgpa": "8.0"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Paylink Fintech Solutions",
+      "role": null,
+      "duration": null,
+      "description": "Closed 10 enterprise partnership deals worth over INR 5 crore combined ARR. Built a partner-onboarding playbook adopted across the BD team. Led negotiations with banking partners for API integration deals."
+    },
+    {
+      "company": "Greenway Technologies",
+      "role": null,
+      "duration": null,
+      "description": "Managed a portfolio of 30+ mid-market clients, achieving 110% of annual sales targets. Identified upsell opportunities within existing accounts."
+    }
+  ],
+  "skills": [
+    "Enterprise Sales",
+    "Partnership Development",
+    "Contract Negotiation",
+    "Salesforce",
+    "Fintech Domain Knowledge"
+  ],
+  "projects": [],
+  "certifications": [],
+  "total_years_experience": 8.0,
+  "summary": "Senior Business Development professional, 8 years experience, specializing in enterprise partnerships in the fintech space.",
+  "_source_pdf": "E:\\CHRIST\\Trimester_4\\LLM\\Exam\\CIA3\\Recruitement_Copilot\\data\\evaluation\\synthetic_resumes\\synthetic_19.txt",
+  "_raw_text": "VIKRAM SINGH\nvikram.singh.bde@gmail.com | +91-90234-56178\n\nSUMMARY\nSenior Business Development professional, 8 years experience, specializing in enterprise partnerships in the fintech space.\n\nEDUCATION\nMBA, Indian School of Business, 2016, CGPA: 8.5\nB.Tech Electronics, NIT Trichy, 2013, CGPA: 8.0\n\nEXPERIENCE\nSenior BD Manager | Paylink Fintech Solutions | 2018 – Present\nClosed 10 enterprise partnership deals worth over INR 5 crore combined ARR. Built a partner-onboarding playbook adopted across the BD team. Led negotiations with banking partners for API integration deals.\n\nBusiness Development Executive | Greenway Technologies | 2013 – 2018\nManaged a portfolio of 30+ mid-market clients, achieving 110% of annual sales targets. Identified upsell opportunities within existing accounts.\n\nSKILLS\nEnterprise Sales, Partnership Development, Contract Negotiation, Salesforce, Fintech Domain Knowledge\n\nCERTIFICATIONS\nNone listed",
+  "_parsed_at": "2026-08-01T22:46:17.041866"
+}

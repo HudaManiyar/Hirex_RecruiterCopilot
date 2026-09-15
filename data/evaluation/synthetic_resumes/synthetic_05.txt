@@ -1,0 +1,24 @@
+ADITYA SHARMA
+aditya.sharma.dev@gmail.com | +91-91234-56789 | github.com/adityasharmadev
+
+SUMMARY
+Backend Software Engineer with 4 years of experience building scalable APIs in Python and Java.
+
+EDUCATION
+B.E. Computer Science, RV College of Engineering, 2019, CGPA: 8.9
+
+EXPERIENCE
+Software Engineer II | Nimbus Cloud Systems | 2021 – Present
+Designed and maintained microservices handling 2M+ daily requests using FastAPI and PostgreSQL. Reduced API latency by 35% through query optimization and caching with Redis. Mentored 2 junior engineers on code review practices.
+
+Software Engineer | CodeForge Technologies | 2019 – 2021
+Built REST APIs using Django for an internal HR management tool. Wrote unit and integration tests achieving 85% coverage. Participated in on-call rotation for production support.
+
+SKILLS
+Python, Java, FastAPI, Django, PostgreSQL, Redis, Docker, AWS, Git
+
+PROJECTS
+Real-time Notification Service — Built using FastAPI + WebSockets, handling 10k concurrent connections.
+
+CERTIFICATIONS
+AWS Certified Developer – Associate

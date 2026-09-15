@@ -1,0 +1,44 @@
+{
+  "name": "Sneha Kulkarni",
+  "email": "sneha.kulkarni.se@gmail.com",
+  "phone": "+91-97654-32109",
+  "education": [
+    {
+      "degree": "B.Tech Computer Science",
+      "institution": "Manipal Institute of Technology",
+      "year": null,
+      "cgpa": "8.2"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Loopline Technologies",
+      "role": null,
+      "duration": null,
+      "description": "Developed customer-facing dashboard features using React and TypeScript Built and maintained Node.js/Express backend services Collaborated with design team to implement responsive UI components"
+    }
+  ],
+  "skills": [
+    "JavaScript",
+    "TypeScript",
+    "React",
+    "Node.js",
+    "Express",
+    "MongoDB",
+    "Git",
+    "CSS"
+  ],
+  "projects": [
+    {
+      "title": null,
+      "description": "Full-stack app built with React, Node.js, and MongoDB, deployed on Render.",
+      "tech_stack": []
+    }
+  ],
+  "certifications": [],
+  "total_years_experience": 2.0,
+  "summary": "Full-stack developer with 2 years of experience, comfortable across React and Node.js based systems.",
+  "_source_pdf": "E:\\CHRIST\\Trimester_4\\LLM\\Exam\\CIA3\\Recruitement_Copilot\\data\\evaluation\\synthetic_resumes\\synthetic_06.txt",
+  "_raw_text": "Name: Sneha Kulkarni\nEmail: sneha.kulkarni.se@gmail.com\nPhone: +91-97654-32109\n\nProfile: Full-stack developer with 2 years of experience, comfortable across React and Node.js based systems.\n\nEducation\nB.Tech Computer Science, Manipal Institute of Technology, 2022, CGPA: 8.2\n\nExperience\nSoftware Engineer, Loopline Technologies (Jul 2022 – Present)\n- Developed customer-facing dashboard features using React and TypeScript\n- Built and maintained Node.js/Express backend services\n- Collaborated with design team to implement responsive UI components\n\nSkills\nJavaScript, TypeScript, React, Node.js, Express, MongoDB, Git, CSS\n\nProjects\nTask Management App — Full-stack app built with React, Node.js, and MongoDB, deployed on Render.\n\nCertifications\nNone listed",
+  "_parsed_at": "2026-08-01T22:45:28.297136"
+}

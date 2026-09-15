@@ -1,0 +1,53 @@
+{
+  "name": "ADITYA SHARMA",
+  "email": "aditya.sharma.dev@gmail.com",
+  "phone": "+91-91234-56789",
+  "education": [
+    {
+      "degree": "B.E. Computer Science",
+      "institution": "RV College of Engineering",
+      "year": null,
+      "cgpa": "8.9"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Nimbus Cloud Systems",
+      "role": null,
+      "duration": "2021 – Present",
+      "description": "Designed and maintained microservices handling 2M+ daily requests using FastAPI and PostgreSQL. Reduced API latency by 35% through query optimization and caching with Redis. Mentored 2 junior engineers on code review practices."
+    },
+    {
+      "company": "CodeForge Technologies",
+      "role": null,
+      "duration": "2019 – 2021",
+      "description": "Built REST APIs using Django for an internal HR management tool. Wrote unit and integration tests achieving 85% coverage. Participated in on-call rotation for production support."
+    }
+  ],
+  "skills": [
+    "Python",
+    "Java",
+    "FastAPI",
+    "Django",
+    "PostgreSQL",
+    "Redis",
+    "Docker",
+    "AWS",
+    "Git"
+  ],
+  "projects": [
+    {
+      "title": null,
+      "description": "Built using FastAPI + WebSockets, handling 10k concurrent connections.",
+      "tech_stack": []
+    }
+  ],
+  "certifications": [
+    "AWS Certified Developer – Associate"
+  ],
+  "total_years_experience": 4.0,
+  "summary": "Backend Software Engineer with 4 years of experience building scalable APIs in Python and Java.",
+  "_source_pdf": "E:\\CHRIST\\Trimester_4\\LLM\\Exam\\CIA3\\Recruitement_Copilot\\data\\evaluation\\synthetic_resumes\\synthetic_05.txt",
+  "_raw_text": "ADITYA SHARMA\naditya.sharma.dev@gmail.com | +91-91234-56789 | github.com/adityasharmadev\n\nSUMMARY\nBackend Software Engineer with 4 years of experience building scalable APIs in Python and Java.\n\nEDUCATION\nB.E. Computer Science, RV College of Engineering, 2019, CGPA: 8.9\n\nEXPERIENCE\nSoftware Engineer II | Nimbus Cloud Systems | 2021 – Present\nDesigned and maintained microservices handling 2M+ daily requests using FastAPI and PostgreSQL. Reduced API latency by 35% through query optimization and caching with Redis. Mentored 2 junior engineers on code review practices.\n\nSoftware Engineer | CodeForge Technologies | 2019 – 2021\nBuilt REST APIs using Django for an internal HR management tool. Wrote unit and integration tests achieving 85% coverage. Participated in on-call rotation for production support.\n\nSKILLS\nPython, Java, FastAPI, Django, PostgreSQL, Redis, Docker, AWS, Git\n\nPROJECTS\nReal-time Notification Service — Built using FastAPI + WebSockets, handling 10k concurrent connections.\n\nCERTIFICATIONS\nAWS Certified Developer – Associate",
+  "_parsed_at": "2026-08-01T22:45:24.734065"
+}

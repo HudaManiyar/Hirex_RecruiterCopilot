@@ -1,0 +1,44 @@
+{
+  "name": "Arjun Mehta",
+  "email": "arjun.mehta.da@outlook.com",
+  "phone": "91-99887-65432",
+  "education": [
+    {
+      "degree": "Bachelor of Engineering",
+      "institution": "VTU",
+      "year": "2020",
+      "cgpa": "7.9"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Fernlight Retail Group",
+      "role": null,
+      "duration": null,
+      "description": "Analyzed transaction data across 200+ stores to identify inventory inefficiencies Automated weekly sales reports using Python scripts, cutting manual effort by 6 hours/week Presented quarterly insights to senior leadership"
+    }
+  ],
+  "skills": [
+    "SQL",
+    "Python",
+    "Excel",
+    "Looker",
+    "Data Visualization",
+    "A/B Testing"
+  ],
+  "projects": [
+    {
+      "title": null,
+      "description": "Built a Looker dashboard flagging overstocked SKUs across regions.",
+      "tech_stack": []
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Data Analyst Associate"
+  ],
+  "total_years_experience": null,
+  "summary": "Detail-oriented Data Analyst with strong SQL and visualization skills, focused on retail and e-commerce analytics.",
+  "_source_pdf": "E:\\CHRIST\\Trimester_4\\LLM\\Exam\\CIA3\\Recruitement_Copilot\\data\\evaluation\\synthetic_resumes\\synthetic_02.txt",
+  "_raw_text": "Name: Arjun Mehta\nContact: arjun.mehta.da@outlook.com | 91-99887-65432\n\nPROFILE\nDetail-oriented Data Analyst with strong SQL and visualization skills, focused on retail and e-commerce analytics.\n\nEDUCATION\nBachelor of Engineering, Computer Science, VTU, 2020, CGPA: 7.9\n\nWORK EXPERIENCE\nData Analyst, Fernlight Retail Group (Aug 2020 – Present)\n- Analyzed transaction data across 200+ stores to identify inventory inefficiencies\n- Automated weekly sales reports using Python scripts, cutting manual effort by 6 hours/week\n- Presented quarterly insights to senior leadership\n\nSKILLS\nSQL, Python, Excel, Looker, Data Visualization, A/B Testing\n\nPROJECTS\nInventory Optimization Dashboard: Built a Looker dashboard flagging overstocked SKUs across regions.\n\nCERTIFICATIONS\nMicrosoft Certified: Data Analyst Associate",
+  "_parsed_at": "2026-08-01T22:45:13.132113"
+}

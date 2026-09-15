@@ -1,0 +1,18 @@
+KAVYA REDDY
+kavya.reddy.analytics@gmail.com | +91-90123-45678
+
+Summary: Entry-level Data Analyst with academic project experience in machine learning and dashboarding, seeking to apply analytical skills in a business setting.
+
+Education:
+B.Tech Information Technology, Bengaluru Institute of Technology, 2023, CGPA: 8.7
+
+Experience:
+Data Analyst Intern, Solstice Consulting (Jan 2023 – Jun 2023)
+Assisted in cleaning survey datasets for client reports. Built basic Python scripts for descriptive statistics. Supported senior analysts in preparing PowerPoint summaries for stakeholders.
+
+Skills: Python, SQL, Excel, Matplotlib, Seaborn, Basic Machine Learning
+
+Projects:
+Retail Sales Forecasting — Used time-series analysis in Python to forecast monthly sales for a mock retail dataset.
+
+Certifications: None listed

@@ -1,0 +1,35 @@
+{
+  "name": "Tanvi Joshi",
+  "email": "tanvi.joshi.bd@gmail.com",
+  "phone": "98567-12340",
+  "education": [
+    {
+      "degree": "MBA",
+      "institution": "Welingkar Institute of Management",
+      "year": "2022",
+      "cgpa": "7.9"
+    }
+  ],
+  "experience": [
+    {
+      "company": "MediConnect Health Systems",
+      "role": null,
+      "duration": null,
+      "description": "Onboarded 15 new hospital clients for a health-tech SaaS platform Conducted product demos for prospective hospital administrators Tracked and reported monthly sales pipeline to management"
+    }
+  ],
+  "skills": [
+    "Client Acquisition",
+    "Product Demos",
+    "Healthcare Domain",
+    "CRM",
+    "Sales Reporting"
+  ],
+  "projects": [],
+  "certifications": [],
+  "total_years_experience": 2.0,
+  "summary": "Business Development Executive, 2 years experience, focused on healthcare sector client acquisition.",
+  "_source_pdf": "E:\\CHRIST\\Trimester_4\\LLM\\Exam\\CIA3\\Recruitement_Copilot\\data\\evaluation\\synthetic_resumes\\synthetic_20.txt",
+  "_raw_text": "Name: Tanvi Joshi\nContact: tanvi.joshi.bd@gmail.com | 98567-12340\n\nProfile: Business Development Executive, 2 years experience, focused on healthcare sector client acquisition.\n\nEducation\nMBA, Welingkar Institute of Management, 2022, CGPA: 7.9\n\nExperience\nBusiness Development Executive, MediConnect Health Systems (Jul 2022 – Present)\n- Onboarded 15 new hospital clients for a health-tech SaaS platform\n- Conducted product demos for prospective hospital administrators\n- Tracked and reported monthly sales pipeline to management\n\nSkills\nClient Acquisition, Product Demos, Healthcare Domain, CRM, Sales Reporting\n\nCertifications\nNone listed",
+  "_parsed_at": "2026-08-01T22:46:21.014375"
+}

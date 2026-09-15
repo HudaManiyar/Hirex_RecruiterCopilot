@@ -1,0 +1,38 @@
+{
+  "name": "Divya Sundaram",
+  "email": "divya.sundaram.fa@outlook.com",
+  "phone": "99456-78123",
+  "education": [
+    {
+      "degree": "MBA Finance",
+      "institution": "IIM Kozhikode",
+      "year": null,
+      "cgpa": "8.4"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Ashford Capital Advisors",
+      "role": null,
+      "duration": null,
+      "description": "Built DCF and comparable-company valuation models for equity research reports Tracked quarterly earnings for a coverage universe of 20 companies Authored sector reports distributed to institutional clients"
+    }
+  ],
+  "skills": [
+    "Equity Research",
+    "Valuation",
+    "DCF Modeling",
+    "Excel",
+    "Bloomberg Terminal",
+    "Financial Statement Analysis"
+  ],
+  "projects": [],
+  "certifications": [
+    "CFA Level 2 Candidate"
+  ],
+  "total_years_experience": 4.0,
+  "summary": "Financial Analyst focused on equity research and valuation, 4 years experience.",
+  "_source_pdf": "E:\\CHRIST\\Trimester_4\\LLM\\Exam\\CIA3\\Recruitement_Copilot\\data\\evaluation\\synthetic_resumes\\synthetic_14.txt",
+  "_raw_text": "Name: Divya Sundaram\nEmail: divya.sundaram.fa@outlook.com\nPhone: 99456-78123\n\nSummary: Financial Analyst focused on equity research and valuation, 4 years experience.\n\nEducation\nMBA Finance, IIM Kozhikode, 2019, CGPA: 8.4\n\nExperience\nFinancial Analyst, Ashford Capital Advisors (2019 – Present)\n- Built DCF and comparable-company valuation models for equity research reports\n- Tracked quarterly earnings for a coverage universe of 20 companies\n- Authored sector reports distributed to institutional clients\n\nSkills\nEquity Research, Valuation, DCF Modeling, Excel, Bloomberg Terminal, Financial Statement Analysis\n\nCertifications\nCFA Level 2 Candidate",
+  "_parsed_at": "2026-08-01T22:45:57.661512"
+}

@@ -1,0 +1,108 @@
+{
+  "name": null,
+  "email": null,
+  "phone": null,
+  "education": [
+    {
+      "degree": "Associate Degree",
+      "institution": "Solano College",
+      "year": null,
+      "cgpa": null
+    },
+    {
+      "degree": "Certificate in Quality Assurance Technology",
+      "institution": "De Anza College, CA",
+      "year": null,
+      "cgpa": null
+    },
+    {
+      "degree": "Certificate in PCB Design",
+      "institution": "The Copper Connection, CA",
+      "year": null,
+      "cgpa": null
+    }
+  ],
+  "experience": [
+    {
+      "company": "Company Name",
+      "role": null,
+      "duration": null,
+      "description": "Developed and implemented test and troubleshooting procedures for HSIO, Digital Home, Access and Transport products. Supported products design verification, characterization, and validation. Successfully managed lab: lab network, PCs and test stations installation. Evaluation boards testing, troubleshooting, reworking, components purchasing, and assembly vendors interfacing. ISO 9000 equipment calibration, laboratory procedures and ESD control administration. Created schematic symbols, captured schematics. Reviewed schematic, and gave recommendations. Understood schematic and assembly drawings, Successfully built, assembled, tested, and debugged test fixtures, evaluation and reference boards. Provided on-going support for modification and de-bugging of design hardware and software products. Performed PCB rework down to 0402 and 0201 components."
+    },
+    {
+      "company": "Company Name",
+      "role": null,
+      "duration": null,
+      "description": "Developed and implemented and troubleshooting procedures procedures for TCP Offload Engines, SONET Framer Products. Supported products design verification, characterization, and validation. Successfully managed lab: lab network, PCs and test stations installation. Evaluation boards testing, troubleshooting, reworking, components purchasing, and assembly vendors interfacing. ISO 9000 equipment calibration, laboratory procedures and ESD control administration. Created schematic symbols, captured schematics. Reviewed schematic, and gave recommendations. Understood schematic and assembly drawings, Successfully built, assembled, tested, and debugged test fixtures, evaluation and reference boards. Provided on-going support for modification and de-bugging of design hardware and software products. Performed PCB rework down to 0402 and 0201 components."
+    },
+    {
+      "company": "Company Name",
+      "role": null,
+      "duration": null,
+      "description": "Developed and implemented and troubleshooting procedures procedures for T1/E1 Framers, Routers, Switches, Ethernet, SONET, ATM Processing Products. Supported products design verification, characterization, and validation. Successfully managed lab: lab network, PCs and test stations installation. Evaluation boards testing, troubleshooting, reworking, components purchasing, and assembly vendors interfacing. ISO 9000 equipment calibration, laboratory procedures and ESD control administration. Created schematic symbols, captured schematics. Reviewed schematic, and gave recommendations. Understood schematic and assembly drawings, Successfully built, assembled, tested, and debugged test fixtures, evaluation and reference boards. Provided on-going support for modification and de-bugging of design hardware and software products. Performed PCB rework down to 0402 and 0201 components."
+    }
+  ],
+  "skills": [
+    "assembly",
+    "ATM",
+    "Cadence",
+    "calibration",
+    "CA",
+    "hardware",
+    "DC",
+    "de-bugging",
+    "Ethernet",
+    "Graphic",
+    "ISO 9000",
+    "LabView",
+    "layout",
+    "Linux OS",
+    "Logic",
+    "Mentor",
+    "Access",
+    "MS Office",
+    "Windows",
+    "multimeters",
+    "network",
+    "networking",
+    "ORCAD",
+    "oscilloscopes",
+    "power supplies",
+    "procurement",
+    "purchasing",
+    "Quality Assurance",
+    "Routers",
+    "schematics",
+    "signal generators",
+    "SONET",
+    "Switches",
+    "T1",
+    "test equipment",
+    "trouble shooting",
+    "troubleshooting",
+    "validation",
+    "View",
+    "1G/10G Ethernet",
+    "Framers",
+    "PON",
+    "PHY",
+    "Digital Home",
+    "programmable DC power supplies",
+    "frequency counters",
+    "function and signal generators",
+    "logic analyzers",
+    "digital serial analyzer",
+    "network traffic generator/performance analyzer",
+    "USTC",
+    "Thermonic",
+    "PADS",
+    "View Logic"
+  ],
+  "projects": [],
+  "certifications": [],
+  "total_years_experience": 10.0,
+  "summary": "Over 10 years experience in technical support in high speed networking semiconductor, lab network administration, problem resolution, documentation and lab management. Self-driven team player with strengths in communication and developing interpersonal ralationships. Possess excellent planning, organization, time management and decision-making skills. Strategically coordinate and collaborate with cross-functional departments and individual to maximize performance in facilitating goals and attaining operational excellence.",
+  "_source_pdf": "E:\\CHRIST\\Trimester_4\\LLM\\Exam\\CIA3\\Recruitement_Copilot\\data\\resumes\\raw_data\\Engineering\\15858254.pdf",
+  "_raw_text": "ELECTRICAL ENGINEERING LAB TECHNICIAN\nSummary\nOver 10 years experience in technical support in high speed networking semiconductor, lab network administration, problem resolution,\ndocumentation and lab management. Self-driven team player with strengths in communication and developing interpersonal ralationships. Possess\nexcellent planning, organization, time management and decision-making skills. Strategically coordinate and collaborate with cross-functional\ndepartments and individual to maximize performance in facilitating goals and attaining operational excellence.\nHighlights\nAbility to test, collect data, diagnose and\ntrouble shooting skills: system, test boards,\neval boards and lab networking.\nKnowledge of 1G/10G Ethernet, Framers,\nRouters, Switches, ATM, PON, PHY,\nSONET, Digital Home.\nLab management: in charge of systems in lab\nand procurement of tools needed in lab,\nincluding maintain and organize lab\nnetworking and test bench setup.\nFimiliar with Windows and Linux OS, MS\nOffice, LabView and others.\nProficient in multimeters, programmable DC power supplies, frequency counters,\noscilloscopes, function and signal generators, logic analyzers, digital serial analyzer,\nnetwork traffic generator/performance analyzer and other specialized test equipment:\nUSTC and Thermonic.\nProficient in schematic capture and PCB layout tools such as PADS, Cadence,\nORCAD, Mentor Graphic, View Logic\nExperience\nCompany Name August 2007 to October 2014 Electrical Engineering Lab Technician \nCity , State\nDeveloped and implemented test and troubleshooting procedures for HSIO, Digital Home, Access and Transport products.\nSupported products design verification, characterization, and validation.\nSuccessfully managed lab: lab network, PCs and test stations installation.\nEvaluation boards testing, troubleshooting, reworking, components purchasing, and assembly vendors interfacing.\nISO 9000 equipment calibration, laboratory procedures and ESD control administration.\nCreated schematic symbols, captured schematics.\nReviewed schematic, and gave recommendations.\nUnderstood schematic and assembly drawings, Successfully built, assembled, tested, and debugged test fixtures, evaluation and reference\nboards.\nProvided on-going support for modification and de-bugging of design hardware and software products.\nPerformed PCB rework down to 0402 and 0201 components.\nCompany Name January 2002 to June 2007 Electrical Engineering Lab Technician \nCity , State\nDeveloped and implemented and troubleshooting procedures procedures for TCP Offload Engines, SONET Framer Products.\nSupported products design verification, characterization, and validation.\nSuccessfully managed lab: lab network, PCs and test stations installation.\nEvaluation boards testing, troubleshooting, reworking, components purchasing, and assembly vendors interfacing.\nISO 9000 equipment calibration, laboratory procedures and ESD control administration.\nCreated schematic symbols, captured schematics.\nReviewed schematic, and gave recommendations.\nUnderstood schematic and assembly drawings, Successfully built, assembled, tested, and debugged test fixtures, evaluation and reference\nboards.\nProvided on-going support for modification and de-bugging of design hardware and software products.\nPerformed PCB rework down to 0402 and 0201 components.\nCompany Name April 1995 to November 2001 Electrical Engineering Technician and PCB Layout Designer \nCity , State\nDeveloped and implemented and troubleshooting procedures procedures for T1/E1 Framers, Routers, Switches, Ethernet, SONET, ATM\nProcessing Products.\nSupported products design verification, characterization, and validation.\nSuccessfully managed lab: lab network, PCs and test stations installation.\nEvaluation boards testing, troubleshooting, reworking, components purchasing, and assembly vendors interfacing.\nISO 9000 equipment calibration, laboratory procedures and ESD control administration.\nCreated schematic symbols, captured schematics.\nReviewed schematic, and gave recommendations.\nUnderstood schematic and assembly drawings, Successfully built, assembled, tested, and debugged test fixtures, evaluation and reference\nboards.\nProvided on-going support for modification and de-bugging of design hardware and software products.\nPerformed PCB rework down to 0402 and 0201 components.\n\nEducation\nSolano College Associate Degree : Electronics Engineering Technology State Electronics Engineering Technology\nCertificate in Quality Assurance Technology from De Anza College, CA. Certificate in PCB Design from The Copper Connection, CA.\nSkills\nassembly, ATM, Cadence, calibration, CA, hardware, DC, de-bugging, Ethernet, Graphic, ISO 9000, LabView, layout, Linux OS, Logic,\nMentor, Access, MS Office, Windows, multimeters, network, networking, ORCAD, oscilloscopes, power supplies, procurement, purchasing,\nQuality Assurance, Routers, schematics, signal generators, SONET, Switches, T1, test equipment, trouble shooting, troubleshooting, validation,\nView\n",
+  "_parsed_at": "2026-08-01T22:55:08.699636"
+}

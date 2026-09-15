@@ -1,0 +1,52 @@
+{
+  "name": "PRIYA NATARAJAN",
+  "email": "priya.natarajan88@gmail.com",
+  "phone": "+91-98765-43210",
+  "education": [
+    {
+      "degree": "B.Sc. Statistics",
+      "institution": "Christ University",
+      "year": "2019",
+      "cgpa": "8.4"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Meridian Analytics Pvt Ltd",
+      "role": null,
+      "duration": null,
+      "description": "Built automated SQL pipelines reducing weekly reporting time by 40%. Designed Tableau dashboards tracking sales KPIs for 5 regional teams. Partnered with product managers to define metrics for a new feature launch."
+    },
+    {
+      "company": "BrightPath Solutions",
+      "role": null,
+      "duration": null,
+      "description": "Cleaned and validated customer datasets using Python (pandas). Created monthly revenue reports for leadership using Excel and Power BI. Assisted senior analysts with A/B test result analysis."
+    }
+  ],
+  "skills": [
+    "SQL",
+    "Python",
+    "Pandas",
+    "Tableau",
+    "Power BI",
+    "Excel",
+    "Statistics",
+    "Data Cleaning"
+  ],
+  "projects": [
+    {
+      "title": null,
+      "description": "Built a logistic regression model in Python to predict churn, achieving 78% accuracy.",
+      "tech_stack": []
+    }
+  ],
+  "certifications": [
+    "Google Data Analytics Professional Certificate"
+  ],
+  "total_years_experience": 3.0,
+  "summary": "Data Analyst with 3 years of experience turning raw datasets into actionable business insights using SQL, Python, and Tableau.",
+  "_source_pdf": "E:\\CHRIST\\Trimester_4\\LLM\\Exam\\CIA3\\Recruitement_Copilot\\data\\evaluation\\synthetic_resumes\\synthetic_01.txt",
+  "_raw_text": "PRIYA NATARAJAN\nEmail: priya.natarajan88@gmail.com | Phone: +91-98765-43210\n\nSUMMARY\nData Analyst with 3 years of experience turning raw datasets into actionable business insights using SQL, Python, and Tableau.\n\nEDUCATION\nB.Sc. Statistics, Christ University, 2019, CGPA: 8.4\n\nEXPERIENCE\nData Analyst | Meridian Analytics Pvt Ltd | Jun 2021 – Present\nBuilt automated SQL pipelines reducing weekly reporting time by 40%. Designed Tableau dashboards tracking sales KPIs for 5 regional teams. Partnered with product managers to define metrics for a new feature launch.\n\nJunior Data Analyst | BrightPath Solutions | Jul 2019 – May 2021\nCleaned and validated customer datasets using Python (pandas). Created monthly revenue reports for leadership using Excel and Power BI. Assisted senior analysts with A/B test result analysis.\n\nSKILLS\nSQL, Python, Pandas, Tableau, Power BI, Excel, Statistics, Data Cleaning\n\nPROJECTS\nCustomer Churn Prediction Model — Built a logistic regression model in Python to predict churn, achieving 78% accuracy.\n\nCERTIFICATIONS\nGoogle Data Analytics Professional Certificate",
+  "_parsed_at": "2026-08-01T22:45:09.449166"
+}

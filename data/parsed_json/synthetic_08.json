@@ -1,0 +1,42 @@
+{
+  "name": "Ishaan Bose",
+  "email": "ishhaan.bose.code@gmail.com",
+  "phone": "98123-45670",
+  "education": [
+    {
+      "degree": "B.Tech Computer Science",
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "year": "2024",
+      "cgpa": "8.0"
+    }
+  ],
+  "experience": [
+    {
+      "company": "PixelWave Apps",
+      "role": null,
+      "duration": null,
+      "description": "Built and shipped two features for a Flutter-based consumer app used by 50k+ users. Fixed 20+ bugs reported through crash analytics. Wrote unit tests for new feature modules."
+    }
+  ],
+  "skills": [
+    "Flutter",
+    "Dart",
+    "Java",
+    "Firebase",
+    "Git",
+    "REST APIs"
+  ],
+  "projects": [
+    {
+      "title": null,
+      "description": "Built a Flutter app for tracking college events, used by 500+ students.",
+      "tech_stack": []
+    }
+  ],
+  "certifications": [],
+  "total_years_experience": null,
+  "summary": "Recent graduate Software Engineer with internship experience in mobile app development.",
+  "_source_pdf": "E:\\CHRIST\\Trimester_4\\LLM\\Exam\\CIA3\\Recruitement_Copilot\\data\\evaluation\\synthetic_resumes\\synthetic_08.txt",
+  "_raw_text": "Name: Ishaan Bose\nContact: ishaan.bose.code@gmail.com | 98123-45670\n\nSUMMARY\nRecent graduate Software Engineer with internship experience in mobile app development.\n\nEDUCATION\nB.Tech Computer Science, Amrita Vishwa Vidyapeetham, 2024, CGPA: 8.0\n\nEXPERIENCE\nSoftware Engineer Intern, PixelWave Apps (Jan 2024 – Jun 2024)\nBuilt and shipped two features for a Flutter-based consumer app used by 50k+ users. Fixed 20+ bugs reported through crash analytics. Wrote unit tests for new feature modules.\n\nSKILLS\nFlutter, Dart, Java, Firebase, Git, REST APIs\n\nPROJECTS\nCampus Event App — Built a Flutter app for tracking college events, used by 500+ students.\n\nCERTIFICATIONS\nNone listed",
+  "_parsed_at": "2026-08-01T22:45:35.538629"
+}

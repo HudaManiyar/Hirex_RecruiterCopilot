@@ -1,0 +1,24 @@
+PRIYA NATARAJAN
+Email: priya.natarajan88@gmail.com | Phone: +91-98765-43210
+
+SUMMARY
+Data Analyst with 3 years of experience turning raw datasets into actionable business insights using SQL, Python, and Tableau.
+
+EDUCATION
+B.Sc. Statistics, Christ University, 2019, CGPA: 8.4
+
+EXPERIENCE
+Data Analyst | Meridian Analytics Pvt Ltd | Jun 2021 – Present
+Built automated SQL pipelines reducing weekly reporting time by 40%. Designed Tableau dashboards tracking sales KPIs for 5 regional teams. Partnered with product managers to define metrics for a new feature launch.
+
+Junior Data Analyst | BrightPath Solutions | Jul 2019 – May 2021
+Cleaned and validated customer datasets using Python (pandas). Created monthly revenue reports for leadership using Excel and Power BI. Assisted senior analysts with A/B test result analysis.
+
+SKILLS
+SQL, Python, Pandas, Tableau, Power BI, Excel, Statistics, Data Cleaning
+
+PROJECTS
+Customer Churn Prediction Model — Built a logistic regression model in Python to predict churn, achieving 78% accuracy.
+
+CERTIFICATIONS
+Google Data Analytics Professional Certificate

@@ -1,0 +1,48 @@
+{
+  "name": "SIDDHARTH RAO",
+  "email": "siddharth.rao.bd@gmail.com",
+  "phone": "+91-98123-67890",
+  "education": [
+    {
+      "degree": "MBA Marketing",
+      "institution": "Great Lakes Institute of Management",
+      "year": "2021",
+      "cgpa": "8.0"
+    },
+    {
+      "degree": "B.E. Mechanical Engineering",
+      "institution": "Anna University",
+      "year": "2019",
+      "cgpa": "7.5"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Cascade SaaS Solutions",
+      "role": null,
+      "duration": null,
+      "description": "Generated INR 1.2 crore in new business pipeline through outbound prospecting. Closed 25+ new client accounts in the SMB segment. Built and maintained relationships with 40+ channel partners."
+    },
+    {
+      "company": "Trident Consulting",
+      "role": null,
+      "duration": null,
+      "description": "Conducted market research to identify new business opportunities. Assisted senior BD managers with client proposal preparation."
+    }
+  ],
+  "skills": [
+    "B2B Sales",
+    "Lead Generation",
+    "CRM (Salesforce)",
+    "Negotiation",
+    "Cold Calling",
+    "Market Research"
+  ],
+  "projects": [],
+  "certifications": [],
+  "total_years_experience": 3.0,
+  "summary": "Business Development Executive with 3 years of experience driving B2B sales growth in the SaaS sector.",
+  "_source_pdf": "E:\\CHRIST\\Trimester_4\\LLM\\Exam\\CIA3\\Recruitement_Copilot\\data\\evaluation\\synthetic_resumes\\synthetic_17.txt",
+  "_raw_text": "SIDDHARTH RAO\nsiddharth.rao.bd@gmail.com | +91-98123-67890\n\nSUMMARY\nBusiness Development Executive with 3 years of experience driving B2B sales growth in the SaaS sector.\n\nEDUCATION\nMBA Marketing, Great Lakes Institute of Management, 2021, CGPA: 8.0\nB.E. Mechanical Engineering, Anna University, 2019, CGPA: 7.5\n\nEXPERIENCE\nBusiness Development Executive | Cascade SaaS Solutions | 2021 – Present\nGenerated INR 1.2 crore in new business pipeline through outbound prospecting. Closed 25+ new client accounts in the SMB segment. Built and maintained relationships with 40+ channel partners.\n\nBusiness Development Associate | Trident Consulting | 2019 – 2021\nConducted market research to identify new business opportunities. Assisted senior BD managers with client proposal preparation.\n\nSKILLS\nB2B Sales, Lead Generation, CRM (Salesforce), Negotiation, Cold Calling, Market Research\n\nCERTIFICATIONS\nNone listed",
+  "_parsed_at": "2026-08-01T22:46:09.264247"
+}

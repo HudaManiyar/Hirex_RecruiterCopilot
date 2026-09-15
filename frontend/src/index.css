@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Fraunces", serif;
+  --font-sans: "Manrope", system-ui, sans-serif;
+
+  --color-terracotta: #e0795d;
+  --color-peach: #fbeae3;
+
+  --color-ink: #1b2437;
+  --color-muted: #5b6b82;
+
+  --color-grade-a: #3fa34d;
+  --color-grade-b: #e8b93f;
+  --color-grade-c: #e8823f;
+  --color-grade-d: #d64545;
+}
+
+@layer base {
+  body {
+    @apply bg-white font-sans text-ink antialiased;
+  }
+}

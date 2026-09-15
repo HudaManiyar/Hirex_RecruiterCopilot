@@ -1,0 +1,35 @@
+Job Title: Python Developer / Lead
+
+Experience: 6–15 Years
+
+Qualifications:
+- Any Graduate
+- Relevant Python certifications are a plus
+
+Responsibilities:
+- Design, develop, and maintain scalable software applications using Python.
+- Develop data pipelines, visualizations, and machine learning models.
+- Build and maintain REST APIs using Flask or Django.
+- Collaborate with cross-functional teams to define requirements and ensure code quality.
+- Participate in code reviews and follow software development best practices.
+
+Must Have Skills:
+- Python
+- Data Structures
+- Algorithms
+- Flask or Django
+- REST APIs
+- Software Development
+- Version Control
+- Testing
+- Continuous Integration
+- Communication Skills
+
+Good to Have Skills:
+- AWS, Azure, or Google Cloud
+- Machine Learning (TensorFlow, PyTorch, Scikit-learn)
+- Data Science (Pandas, NumPy, Matplotlib)
+- ETL
+- NoSQL
+- JavaScript
+- Node.js

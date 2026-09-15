@@ -1,0 +1,26 @@
+Name: Rohan Iyer
+Email: rohan.iyer.work@gmail.com
+Phone: 98456-12378
+
+SUMMARY
+Data Analyst with 5+ years across fintech and healthcare, specializing in dashboarding and stakeholder reporting.
+
+EDUCATION
+MBA (Business Analytics), IIM Trichy, 2018, CGPA: 8.1
+B.Com, Loyola College, 2015, CGPA: 7.8
+
+EXPERIENCE
+Senior Data Analyst | HealthFirst Diagnostics | 2020 – Present
+Led a team of 2 analysts building patient-outcome dashboards. Reduced report turnaround from 3 days to same-day using automated SQL views. Collaborated with clinical staff to define new tracking metrics.
+
+Data Analyst | Vantage Fintech | 2018 – 2020
+Built fraud-detection reporting dashboards in Tableau. Queried large transaction datasets using SQL for compliance audits.
+
+SKILLS
+SQL, Tableau, Python, Stakeholder Communication, Data Governance, Excel
+
+PROJECTS
+Fraud Pattern Dashboard — Tableau dashboard flagging anomalous transaction clusters.
+
+CERTIFICATIONS
+Tableau Desktop Specialist
