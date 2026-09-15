@@ -11,6 +11,28 @@ It also includes a job-description quality checker that critiques a JD for vague
 - **Explainable ranking** — retrieved candidates are graded A–D by an LLM against the job requirement, with per-candidate evidence, matched/missing skills, a confidence level, and suggested interview questions — never a raw numeric match percentage.
 - **JD quality analysis** — a separate LLM pass scores a job description's clarity/completeness, flags ambiguous phrases, and produces an improved rewrite.
 
+## Architecture
+
+![System Architecture](docs/screenshots/architecture.png)
+
+## Screenshots
+
+**Dashboard** — resume pool overview and category breakdown
+
+![Dashboard](docs/screenshots/dashboard.png)
+
+**Recruiter Copilot** — natural-language candidate search, with honest partial-match results
+
+![Search Candidates](docs/screenshots/search-candidates.png)
+
+**Candidate Rankings** — explainable A–D board with evidence per candidate
+
+![Candidate Rankings](docs/screenshots/rankings.png)
+
+**JD Analyzer** — quality score, strengths, weaknesses, and ambiguous phrasing
+
+![JD Analyzer](docs/screenshots/jd-analyzer.png)
+
 ## Tech stack
 
 - **Backend:** FastAPI, Google Gemini (`gemini-flash-lite-latest`), ChromaDB, Sentence-Transformers, Pydantic
