@@ -1,6 +1,6 @@
 Name: Rohan Iyer
-Email: rohan.iyer.work@gmail.com
-Phone: 98456-12378
+Email: rohan.iyer.work@example.com
+Phone: +91-00000-00004
 
 SUMMARY
 Data Analyst with 5+ years across fintech and healthcare, specializing in dashboarding and stakeholder reporting.

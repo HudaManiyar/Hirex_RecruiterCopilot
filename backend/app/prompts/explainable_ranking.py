@@ -4,7 +4,7 @@ Given a job requirement and a set of candidate resume excerpts, evaluate EACH ca
 
 Rules:
 - Grade each candidate A, B, C, or D based on overall fit (A = excellent fit, D = poor fit). Do NOT use numeric percentages.
-- Do NOT include a source_file field — leave it out entirely, it will be added separately.
+- source_file: copy the source_file ID exactly as it appears in that candidate's header line.
 - matched_skills: skills/experience explicitly present in the resume that align with the requirement.
 - missing_skills: skills/experience the requirement implies but the resume does not show. This must be a list of short skill/experience phrases (e.g. "AWS", "3+ years management experience"), not a full sentence. Use an empty list if there's nothing meaningfully missing.
 - evidence: 1-3 short direct facts or paraphrased points from the resume that justify the grade. Do not fabricate — only use what's in the excerpt.

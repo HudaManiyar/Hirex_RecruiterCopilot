@@ -1,5 +1,5 @@
 KARTHIK VENKATESH
-karthik.v.swe@outlook.com | 90045-67812
+karthik.v.swe@example.com | +91-00000-00007
 
 SUMMARY
 Senior Software Engineer, 7 years experience, specializing in distributed systems and cloud infrastructure.

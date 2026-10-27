@@ -1,7 +1,7 @@
 {
   "name": "Varun Kapoor",
-  "email": "varun.kapoor.hr@outlook.com",
-  "phone": "91-98234-56712",
+  "email": "varun.kapoor.hr@example.com",
+  "phone": "+91-00000-00010",
   "education": [
     {
       "degree": "BBA Human Resource Management",
@@ -31,6 +31,6 @@
   "total_years_experience": 2.0,
   "summary": "HR Generalist with 2 years experience supporting hiring and employee relations at a startup.",
   "_source_pdf": "E:\\CHRIST\\Trimester_4\\LLM\\Exam\\CIA3\\Recruitement_Copilot\\data\\evaluation\\synthetic_resumes\\synthetic_10.txt",
-  "_raw_text": "Name: Varun Kapoor\nEmail: varun.kapoor.hr@outlook.com\nPhone: 91-98234-56712\n\nSummary: HR Generalist with 2 years experience supporting hiring and employee relations at a startup.\n\nEducation\nBBA Human Resource Management, Christ University, 2022, CGPA: 7.6\n\nExperience\nHR Executive, Northbridge Startups Pvt Ltd (Jul 2022 – Present)\n- Coordinated hiring pipeline for 5 departments, sourcing candidates via LinkedIn and Naukri\n- Conducted first-round screening calls for 100+ candidates\n- Organized monthly team engagement activities\n\nSkills\nSourcing, Screening, LinkedIn Recruiter, Naukri, Employee Relations, MS Office\n\nCertifications\nNone listed",
+  "_raw_text": "Name: Varun Kapoor\nEmail: varun.kapoor.hr@example.com\nPhone: +91-00000-00010\n\nSummary: HR Generalist with 2 years experience supporting hiring and employee relations at a startup.\n\nEducation\nBBA Human Resource Management, Christ University, 2022, CGPA: 7.6\n\nExperience\nHR Executive, Northbridge Startups Pvt Ltd (Jul 2022 – Present)\n- Coordinated hiring pipeline for 5 departments, sourcing candidates via LinkedIn and Naukri\n- Conducted first-round screening calls for 100+ candidates\n- Organized monthly team engagement activities\n\nSkills\nSourcing, Screening, LinkedIn Recruiter, Naukri, Employee Relations, MS Office\n\nCertifications\nNone listed",
   "_parsed_at": "2026-08-01T22:45:42.698169"
 }

@@ -1,6 +1,6 @@
 Name: Sneha Kulkarni
-Email: sneha.kulkarni.se@gmail.com
-Phone: +91-97654-32109
+Email: sneha.kulkarni.se@example.com
+Phone: +91-00000-00006
 
 Profile: Full-stack developer with 2 years of experience, comfortable across React and Node.js based systems.
 

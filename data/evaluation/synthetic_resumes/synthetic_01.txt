@@ -1,5 +1,5 @@
 PRIYA NATARAJAN
-Email: priya.natarajan88@gmail.com | Phone: +91-98765-43210
+Email: priya.natarajan88@example.com | Phone: +91-00000-00001
 
 SUMMARY
 Data Analyst with 3 years of experience turning raw datasets into actionable business insights using SQL, Python, and Tableau.

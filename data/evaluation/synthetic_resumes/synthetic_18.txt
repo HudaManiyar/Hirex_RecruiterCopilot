@@ -1,6 +1,6 @@
 Name: Neha Chatterjee
-Email: neha.chatterjee.bd@outlook.com
-Phone: 91-99087-65123
+Email: neha.chatterjee.bd@example.com
+Phone: +91-00000-00018
 
 Summary: Entry-level BD Executive with strong communication skills and internship experience in client outreach.
 

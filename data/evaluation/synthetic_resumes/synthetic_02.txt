@@ -1,5 +1,5 @@
 Name: Arjun Mehta
-Contact: arjun.mehta.da@outlook.com | 91-99887-65432
+Contact: arjun.mehta.da@example.com | +91-00000-00002
 
 PROFILE
 Detail-oriented Data Analyst with strong SQL and visualization skills, focused on retail and e-commerce analytics.

@@ -104,6 +104,12 @@ HireX was validated through qualitative, scenario-based testing rather than a st
 - Real ATS integration via the existing FastAPI layer
 - A larger, labeled evaluation dataset for statistical (not just qualitative) evaluation
 
+## Data
+
+- **Resumes:** 115 PDF resumes from 8 of the 24 job categories in the public [Kaggle Resume Dataset](https://www.kaggle.com/datasets/snehaanbhawal/resume-dataset) (by Snehaan Bhawal; resumes originally collected from livecareer.com). 114 of them were parsed successfully into `data/parsed_json/`. See the dataset page for its licence.
+- **Synthetic resumes:** 20 fictional resumes in `data/evaluation/synthetic_resumes/`, written for testing. Their names and contact details are invented (emails use the reserved `example.com` domain).
+- **Job descriptions:** 6 sample job descriptions in `data/job_description/`.
+
 ## Acknowledgements
 
 Design decisions in this project were informed by an interview with an HR/Talent Acquisition professional regarding real-world resume screening practices, and by an informal review of recruiter discussions in public online recruiting communities.

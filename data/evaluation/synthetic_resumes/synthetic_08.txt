@@ -1,5 +1,5 @@
 Name: Ishaan Bose
-Contact: ishaan.bose.code@gmail.com | 98123-45670
+Contact: ishaan.bose.code@example.com | +91-00000-00008
 
 SUMMARY
 Recent graduate Software Engineer with internship experience in mobile app development.

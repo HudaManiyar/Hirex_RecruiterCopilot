@@ -1,5 +1,5 @@
 ADITYA SHARMA
-aditya.sharma.dev@gmail.com | +91-91234-56789 | github.com/adityasharmadev
+aditya.sharma.dev@example.com | +91-00000-00005 | github.com/adityasharmadev
 
 SUMMARY
 Backend Software Engineer with 4 years of experience building scalable APIs in Python and Java.

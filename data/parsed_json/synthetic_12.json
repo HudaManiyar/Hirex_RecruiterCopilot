@@ -1,7 +1,7 @@
 {
   "name": "Meera Pillai",
-  "email": "meera.pillai.hr@gmail.com",
-  "phone": "90567-81234",
+  "email": "meera.pillai.hr@example.com",
+  "phone": "+91-00000-00012",
   "education": [
     {
       "degree": "MBA HR",
@@ -29,6 +29,6 @@
   "total_years_experience": null,
   "summary": "Entry-level HR Executive with internship experience in campus recruitment.",
   "_source_pdf": "E:\\CHRIST\\Trimester_4\\LLM\\Exam\\CIA3\\Recruitement_Copilot\\data\\evaluation\\synthetic_resumes\\synthetic_12.txt",
-  "_raw_text": "Name: Meera Pillai\nContact: meera.pillai.hr@gmail.com | 90567-81234\n\nProfile: Entry-level HR Executive with internship experience in campus recruitment.\n\nEducation\nMBA HR, Loyola Institute of Business Administration, 2023, CGPA: 7.8\n\nExperience\nHR Intern, Rivermount Technologies (Jan 2023 – Jun 2023)\nAssisted in organizing campus placement drives across 3 colleges. Coordinated interview scheduling for 80+ candidates. Helped prepare offer letters and onboarding documentation.\n\nSkills\nCampus Recruitment, MS Excel, Interview Scheduling, Documentation\n\nCertifications\nNone listed",
+  "_raw_text": "Name: Meera Pillai\nContact: meera.pillai.hr@example.com | +91-00000-00012\n\nProfile: Entry-level HR Executive with internship experience in campus recruitment.\n\nEducation\nMBA HR, Loyola Institute of Business Administration, 2023, CGPA: 7.8\n\nExperience\nHR Intern, Rivermount Technologies (Jan 2023 – Jun 2023)\nAssisted in organizing campus placement drives across 3 colleges. Coordinated interview scheduling for 80+ candidates. Helped prepare offer letters and onboarding documentation.\n\nSkills\nCampus Recruitment, MS Excel, Interview Scheduling, Documentation\n\nCertifications\nNone listed",
   "_parsed_at": "2026-08-01T22:45:49.621544"
 }

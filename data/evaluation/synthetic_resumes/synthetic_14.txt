@@ -1,6 +1,6 @@
 Name: Divya Sundaram
-Email: divya.sundaram.fa@outlook.com
-Phone: 99456-78123
+Email: divya.sundaram.fa@example.com
+Phone: +91-00000-00014
 
 Summary: Financial Analyst focused on equity research and valuation, 4 years experience.
 

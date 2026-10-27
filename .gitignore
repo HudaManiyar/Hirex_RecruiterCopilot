@@ -18,3 +18,6 @@ vector_db/
 Thumbs.db
 .vscode/
 .idea/
+
+# Full Kaggle dataset (not needed by the app; the PDFs in data/resumes/ are used)
+data/Resume.csv

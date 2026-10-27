@@ -1,12 +1,11 @@
 from app.services.embedding_service import EmbeddingService
-from app.services.gemini_service import GeminiService
+from app.services.llm import generate_text
 from app.prompts.recruiter_query import RECRUITER_QUERY_PROMPT
 
 
 class RecruiterCopilot:
     def __init__(self):
         self.embedding_service = EmbeddingService()
-        self.gemini_service = GeminiService()
 
     def _format_candidates_block(self, results) -> str:
         blocks = []
@@ -29,5 +28,4 @@ class RecruiterCopilot:
             candidates_block=candidates_block,
         )
 
-        response = self.gemini_service.model.generate_content(prompt)
-        return response.text
+        return generate_text(prompt)

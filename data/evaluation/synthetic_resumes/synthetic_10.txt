@@ -1,6 +1,6 @@
 Name: Varun Kapoor
-Email: varun.kapoor.hr@outlook.com
-Phone: 91-98234-56712
+Email: varun.kapoor.hr@example.com
+Phone: +91-00000-00010
 
 Summary: HR Generalist with 2 years experience supporting hiring and employee relations at a startup.
 
